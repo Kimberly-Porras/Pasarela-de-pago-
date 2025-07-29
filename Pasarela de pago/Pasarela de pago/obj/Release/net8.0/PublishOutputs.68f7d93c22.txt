@@ -1,0 +1,2 @@
+C:\Users\User\Documents\GitHub\Pasarela-de-pago-\Pasarela de pago\Pasarela de pago\obj\Release\net8.0\browser-wasm\PubTmp\Out\emcc-props.json
+C:\Users\User\Documents\GitHub\Pasarela-de-pago-\Pasarela de pago\Pasarela de pago\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
